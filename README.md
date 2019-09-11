@@ -3,6 +3,11 @@ Desafio da empresa ivory
 
 Fazer um programa que recebe um nome digitado pelo usuário e cria uma matriz preenchida com o nome digitado ao centro e em seu entorno numeros inteiros de forma crescente no sentido horário. Após criar a matriz, exiba a mesma na tela. 
 
+
+
+
+
+
 Exemplo : 
 nome: guite Matriz
 
