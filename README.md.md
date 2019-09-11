@@ -6,14 +6,15 @@ Fazer um programa que recebe um nome digitado pelo usuário e cria uma matriz pr
 ---
 
 <blockquote>
-<p>Exemplo : nome: guite<br>
-| -------------------------- |<br>
+<p>Exemplo : <br>
+<p>nome: guite<br>
+ -------------------------- <br>
 Matriz<br>
-| -------------------------- |<br>
+ -------------------------- <br>
   1  | 2 | 3 | 4 | 5 | 6 | 7	<br>
-  16 | g | u | i | t | e | 8<br>
+  16 | g | u | i | t | e | 8  <br>
   15 |14 | 13| 12|11 |10 | 9	<br>
-| -------------------------- |<br>
+ --------------------------   <br>
 en with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
 
