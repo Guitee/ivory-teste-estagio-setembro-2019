@@ -1,7 +1,9 @@
 ---
 Desafio da empresa ivory
+Questao1: Descobrir o porque o resultado da questao 1 da zero. Isso aconteceu pois a condição de parada do if estava terminando em
+0 e devia terminar em 1 para nao zerar todo o calculo feito pela recursividade, contudo retorna-se 1 por causa desse motivo
 
-Fazer um programa que recebe um nome digitado pelo usuário e cria uma matriz preenchida com o nome digitado ao centro e em seu entorno numeros inteiros de forma crescente no sentido horário. Após criar a matriz, exiba a mesma na tela. 
+Questao2:Fazer um programa que recebe um nome digitado pelo usuário e cria uma matriz preenchida com o nome digitado ao centro e em seu entorno numeros inteiros de forma crescente no sentido horário. Após criar a matriz, exiba a mesma na tela. 
 
 ---
 
